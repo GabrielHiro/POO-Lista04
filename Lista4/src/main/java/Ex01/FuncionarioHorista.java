@@ -19,7 +19,7 @@ public class FuncionarioHorista extends Funcionario {
     }
 
     public String imprimir() {
-        return "Numero do Cracha: " + getNumeroCracha() + "Nome: " + getNome() + "Setor: " + getSetor() + "Função: " + getFuncao() + "Quantidade de Horas: " + getQtdeHoras() + "Valor Horas: " + getValorHora();
+        return "Numero do Cracha: " + getNumeroCracha() + " Nome: " + getNome() + " Setor: " + getSetor() + " Função: " + getFuncao() + " Quantidade de Horas: " + getQtdeHoras() + " Valor Horas: " + getValorHora();
     }
 
     /* Get e Set's */

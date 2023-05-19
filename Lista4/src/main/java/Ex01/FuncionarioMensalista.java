@@ -16,7 +16,7 @@ public class FuncionarioMensalista extends Funcionario {
     }
 
     public String imprimir() {
-        return "Numero do Cracha: " + getNumeroCracha() + "Nome: " + getNome() + "Setor: " + getSetor() + "Função: " + getFuncao() + "Salario: " + salario;
+        return "Numero do Cracha: " + getNumeroCracha() + " Nome: " + getNome() + " Setor: " + getSetor() + " Função: " + getFuncao() + " Salario: " + salario;
     }
     
 
